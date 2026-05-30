@@ -1,7 +1,7 @@
 # Dev.-Wor-Report-----Project-Commercial-Alfa
 
 # Developer Work Report — Project Commercial Alfa
-**Author:** Data Analyst Specialist
+**Author:** Géssica Nascimento, data analyst studant 
 **Focus:** Infrastructure Consolidation, Environment Debugging, and Pipeline Synchronization
 
 ### 1. Incident Log & Infrastructure Debugging
